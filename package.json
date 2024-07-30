@@ -1,0 +1,30 @@
+{
+  "name": "sit725-2024-t2-prac3.2",
+  "version": "1.0.0",
+  "description": "sit 725 week 3 prac",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cher24/sit725-2024-t2-prac3.2.git"
+  },
+  "keywords": [
+    "Nodejs",
+    "Express",
+    "Materialize",
+    "HTML",
+    "JS",
+    "CSS"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cher24/sit725-2024-t2-prac3.2.git"
+  },
+  "homepage": "https://github.com/Cher24/sit725-2024-t2-prac3.2",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
